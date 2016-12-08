@@ -1,0 +1,3 @@
+[submodule "report-service"]
+	path = report-service
+	url = git@github.com:OfficeServe/report-service.git
